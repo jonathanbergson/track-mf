@@ -1,0 +1,6 @@
+{
+  "name": "01_lerna_rollup",
+  "devDependencies": {
+    "lerna": "^5.2.0"
+  }
+}
