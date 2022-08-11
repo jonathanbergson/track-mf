@@ -1,0 +1,19 @@
+{
+  "name": "@trackco/main",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": {
+    "apps": [
+      "admin",
+      "survey",
+      "widget"
+    ],
+    "configs": [
+      "eslint"
+    ],
+    "tools": [
+      "request",
+      "ui"
+    ]
+  }
+}
