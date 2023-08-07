@@ -1,0 +1,8 @@
+{
+  "name": "@trackco/module-dashboard",
+  "private": true,
+  "version": "23.5.11",
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
+}

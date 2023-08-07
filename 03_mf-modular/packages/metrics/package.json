@@ -1,0 +1,9 @@
+{
+  "name": "@trackco/metrics",
+  "private": true,
+  "version": "23.5.11",
+  "main": "./index.js",
+  "dependencies": {
+    "vue": "^3.2.47"
+  }
+}
